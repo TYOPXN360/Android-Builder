@@ -56,7 +56,7 @@
             }
         },
         "AnyKernel3": {
-            "use": true,
+            "use": flase,
             "release": true
         },
         "enableKernelSU": false,
