@@ -2,8 +2,8 @@
     {
         "kernelSource": {
             "name": "Chopin",
-            "repo": "https://github.com/ChopinKernels/android_kernel_chopin_android_T",
-            "branch": "T",
+            "repo": "https://github.com/TYOPXN360/kernel_xiaomi_chopin",
+            "branch": "ST",
             "device": "chopin",
             "defconfig": "chopin_user_defconfig"
         },
