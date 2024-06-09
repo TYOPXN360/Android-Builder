@@ -1,11 +1,11 @@
 [
     {
         "kernelSource": {
-            "name": "Chopin",
-            "repo": "https://github.com/ChopinKernels/android_kernel_chopin_android_T",
-            "branch": "T",
-            "device": "chopin",
-            "defconfig": "chopin_user_defconfig"
+            "name": "cuttlefish",
+            "repo": "https://github.com/saoshen/android_kernel_xiaomi_mt6885",
+            "branch": "cgroup--v2",
+            "device": "cuttlefish",
+            "defconfig": "cuttlefish_defconfig"
         },
         "toolchains": [
             {
@@ -56,10 +56,10 @@
             }
         },
         "AnyKernel3": {
-            "use": flase,
+            "use": true,
             "release": true
         },
-        "enableKernelSU": false,
+        "enableKernelSU": true,
         "enableLXC": false
     }
 ]
