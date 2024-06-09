@@ -1,11 +1,11 @@
 [
     {
         "kernelSource": {
-            "name": "cuttlefish",
+            "name": "atom",
             "repo": "https://github.com/saoshen/android_kernel_xiaomi_mt6885",
             "branch": "cgroup--v2",
-            "device": "cuttlefish",
-            "defconfig": "cuttlefish_defconfig"
+            "device": "atom",
+            "defconfig": "vendor/atom_user_defconfig"
         },
         "toolchains": [
             {
