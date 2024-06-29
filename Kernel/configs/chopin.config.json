@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "Chopin",
-            "repo": "https://github.com/smile349/android_kernel_T",
+            "repo": "https://github.com/TYOPXN360/android_kernel_chopin_android_T_Apatch",
             "branch": "T",
             "device": "chopin",
             "defconfig": "chopin_user_defconfig"
