@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "chopin-ksu-11",
-      "repo": "https://github.com/Anya1014CN/kernel_xiaomi_chopin",
-      "branch": "r",
+      "name": "chopin",
+      "repo": "https://github.com/TYOPXN360/android_kernel_chopin_android_T_Apatch",
+      "branch": "T",
       "device": "chopin",
       "defconfig": "chopin_user_defconfig"
     },
